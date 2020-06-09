@@ -3,7 +3,7 @@
 echo -n "Print message?"
 valid=0
 while
-[ $valid ==0]
+[ $valid == 0 ]
 do
 	read ans
 	case $ans in
